@@ -1,0 +1,22 @@
+{
+  "name": "mock-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatjain-21/Mock-APIs.git"
+  },
+  "author": "Rajat Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatjain-21/Mock-APIs/issues"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "homepage": "https://github.com/rajatjain-21/Mock-APIs#readme"
+}
