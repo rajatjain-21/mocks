@@ -50,10 +50,19 @@
         }
     ],
     "address": {
-        "address_line_1": "Tower 14, Prestige Ferns Residency",
-        "address_line_2": "Harlur Main Road",
-        "city": "Bengaluru",
-        "state": "Karnataka",
-        "pincode": "805110"
+        "billing_address": {
+            "address_line_1": "Tower 14, Prestige Ferns Residency",
+            "address_line_2": "Harlur Main Road",
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "pincode": "805110"
+        },
+        "shipping_address": {
+            "address_line_1": "Shri Radhe Krishna Garden",
+            "address_line_2": "Bariatu Main road",
+            "city": "Ranchi",
+            "state": "Jharkhand",
+            "pincode": "110001"
+        }
     }
 }
