@@ -1,54 +1,57 @@
 {
-    "items": [
-        {
-            "id": "a-book-by-Rajat",
-            "name": "A book by Rajat",
-            "price": 340,
-            "discount_price": 320
-        },
-        {
-            "id": "office-chair",
-            "name": "Office Chair",
-            "price": 3000,
-            "discount_price": 2600
-        },
-        {
-            "id": "study-table",
-            "name": "Study Table",
-            "price": 2500,
-            "discount_price": 2450
-        },
-        {
-            "id": "amazon-kindle",
-            "name": "Amazon Kindle",
-            "price": 10000,
-            "discount_price": 9000
-        },
-        {
-            "id": "wake-fit-mattress",
-            "name": "Wakefit Mattress",
-            "price": 9000,
-            "discount_price": 8000
-        },
-        {
-            "id": "study-lamp",
-            "name": "Study Lamp",
-            "price": 1000,
-            "discount_price": 700
-        },
-        {
-            "id": "arm-rest",
-            "name": "Arm Rest",
-            "price": 500,
-            "discount_price": 450
-        },
-        {
-            "id": "laptop-cover",
-            "name": "Laptop cover",
-            "price": 1500,
-            "discount_price": 1200
-        }
-    ],
+    "items": {
+        "attributes": ["name", "price", "discount_price"],
+        "data": [
+            {
+                "id": "a-book-by-Rajat",
+                "name": "A book by Rajat",
+                "price": 340,
+                "discount_price": 320
+            },
+            {
+                "id": "office-chair",
+                "name": "Office Chair",
+                "price": 3000,
+                "discount_price": 2600
+            },
+            {
+                "id": "study-table",
+                "name": "Study Table",
+                "price": 2500,
+                "discount_price": 2450
+            },
+            {
+                "id": "amazon-kindle",
+                "name": "Amazon Kindle",
+                "price": 10000,
+                "discount_price": 9000
+            },
+            {
+                "id": "wake-fit-mattress",
+                "name": "Wakefit Mattress",
+                "price": 9000,
+                "discount_price": 8000
+            },
+            {
+                "id": "study-lamp",
+                "name": "Study Lamp",
+                "price": 1000,
+                "discount_price": 700
+            },
+            {
+                "id": "arm-rest",
+                "name": "Arm Rest",
+                "price": 500,
+                "discount_price": 450
+            },
+            {
+                "id": "laptop-cover",
+                "name": "Laptop cover",
+                "price": 1500,
+                "discount_price": 1200
+            }
+        ]
+    },
     "address": {
         "billing_address": {
             "address_line_1": "Tower 14, Prestige Ferns Residency",
